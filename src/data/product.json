@@ -1,0 +1,212 @@
+[
+    {
+      "id": "da61364b-9782-4aff-881c-878ed0332c1f",
+      "price": 2204,
+      "name": "Camacho",
+      "about": "Officia eiusmod irure dolore culpa esse nostrud. Cillum exercitation magna aliqua amet amet eiusmod ex sint. Esse culpa duis adipisicing elit cillum nostrud. Labore et irure eiusmod elit eu. Ipsum amet fugiat ullamco voluptate mollit velit eu sunt magna occaecat. Lorem exercitation irure elit minim ut.",
+      "tags": [
+        "amet",
+        "consequat",
+        "sint",
+        "officia",
+        "exercitation"
+      ],
+      "relatedProduct": [
+        {
+          "name": "Kay",
+          "id": "a6717e6a-0c1f-45d6-962d-1aa156c5e8ea"
+        },
+        {
+          "name": "Fay",
+          "id": "1889811c-8e7f-464f-a295-822c638b5290"
+        },
+        {
+          "name": "House",
+          "id": "0def6b8a-6a6d-4ac3-bd3f-33564ccba2db"
+        },
+        {
+          "name": "Burton",
+          "id": "7e1125b7-3d55-4f17-bf6c-d2aedae63725"
+        },
+        {
+          "name": "Kelli",
+          "id": "b4c13b7d-2527-449a-882b-a31b87a5574f"
+        }
+      ]
+    },
+    {
+      "id": "b1250ae6-6172-4382-b9e0-a6e2c55778ef",
+      "price": 1366,
+      "name": "Betsy",
+      "about": "Culpa officia ut consectetur irure eiusmod ut amet occaecat in. Commodo magna pariatur id deserunt sunt id nulla sit proident irure. Esse consequat anim eiusmod consequat ipsum proident et sint. Pariatur dolor dolor ex tempor proident ullamco consequat enim velit commodo fugiat et consequat nulla. Anim minim anim quis irure eu dolore nulla et veniam duis qui sint dolor. Tempor mollit tempor laborum qui deserunt culpa quis anim ex.",
+      "tags": [
+        "ullamco",
+        "velit",
+        "in",
+        "do",
+        "excepteur"
+      ],
+      "relatedProduct": [
+        {
+          "name": "Dolly",
+          "id": "ad8c056a-b14d-480e-9105-8dab441df9cd"
+        },
+        {
+          "name": "Leonor",
+          "id": "8d2cf672-3050-4409-8cb4-20ccbbc5e655"
+        },
+        {
+          "name": "Bertie",
+          "id": "eec916db-1e85-4ffd-a65b-099c9f4c723c"
+        },
+        {
+          "name": "Corinne",
+          "id": "5593267c-ed22-4f7c-80db-d659047673f5"
+        },
+        {
+          "name": "Avis",
+          "id": "e7d85210-f74f-4771-bc4d-20d6c8aab1dd"
+        }
+      ]
+    },
+    {
+      "id": "2502fc8f-3658-4b97-9a21-eb12f5eb8fcd",
+      "price": 3613,
+      "name": "Roseann",
+      "about": "Ea ad duis mollit aliquip fugiat reprehenderit incididunt mollit duis dolore pariatur exercitation consectetur. Duis nisi dolor do ut ut ad excepteur. Adipisicing excepteur minim reprehenderit dolore ea consectetur sit ut amet. Nisi laborum ex ipsum sunt anim. Do occaecat minim consequat velit dolor eiusmod magna id laboris voluptate irure commodo nisi consequat. Ad occaecat ex amet aliquip esse voluptate tempor quis excepteur anim. Do cupidatat excepteur consectetur anim.",
+      "tags": [
+        "veniam",
+        "officia",
+        "esse",
+        "incididunt",
+        "consequat"
+      ],
+      "relatedProduct": [
+        {
+          "name": "Darla",
+          "id": "284bb985-4742-43b3-91bc-a4a5add0ee3e"
+        },
+        {
+          "name": "Georgia",
+          "id": "4ee65c3e-842e-472d-b2e6-234ec212e52c"
+        },
+        {
+          "name": "Calhoun",
+          "id": "796a9037-655b-4d36-a66a-281fa320054e"
+        },
+        {
+          "name": "Schroeder",
+          "id": "edfa8ff3-c6ed-4ad1-8126-7e10f6a2fe51"
+        },
+        {
+          "name": "Miranda",
+          "id": "f1fd2337-8925-4671-8e55-74316b1e4176"
+        }
+      ]
+    },
+    {
+      "id": "746a40e3-aa9f-467a-b5d7-9342905fcb6d",
+      "price": 2020,
+      "name": "Mitzi",
+      "about": "Aute velit occaecat anim est. Nulla ut ad eu est officia mollit irure. Ipsum enim ullamco irure est irure non proident aliquip. In incididunt aliquip dolor mollit culpa exercitation exercitation aute. Velit aliqua labore magna esse ea incididunt fugiat. Dolor veniam dolor Lorem est Lorem pariatur velit sit amet ea.",
+      "tags": [
+        "eu",
+        "sit",
+        "aliqua",
+        "sint",
+        "laborum"
+      ],
+      "relatedProduct": [
+        {
+          "name": "Marva",
+          "id": "5b8e6b6e-e3f7-41ba-866a-6fa6b92ec9ce"
+        },
+        {
+          "name": "Etta",
+          "id": "65d44f87-2e8f-4b38-9e7b-7361c2d65e50"
+        },
+        {
+          "name": "Maryann",
+          "id": "b68be890-2d46-46da-a3fb-b0be319ed899"
+        },
+        {
+          "name": "Nixon",
+          "id": "ec456c3f-6064-4bc0-b3c9-1b8da4f198f4"
+        },
+        {
+          "name": "Claudine",
+          "id": "217ec68b-9961-4655-ada1-d52cdba74c74"
+        }
+      ]
+    },
+    {
+      "id": "f3889eee-99cf-4532-9fd1-d919bf5afc60",
+      "price": 3678,
+      "name": "Felicia",
+      "about": "Cupidatat veniam reprehenderit reprehenderit ullamco dolore sunt ex voluptate. Do nisi irure officia amet laboris dolor sint elit. Dolor ut elit excepteur culpa nisi. Proident elit sit in enim reprehenderit laborum eu ea velit tempor.",
+      "tags": [
+        "dolor",
+        "laborum",
+        "voluptate",
+        "cupidatat",
+        "culpa"
+      ],
+      "relatedProduct": [
+        {
+          "name": "Salas",
+          "id": "ffcd0f8a-0601-4bfd-a127-fb52740babb5"
+        },
+        {
+          "name": "Porter",
+          "id": "b2993a60-0f4b-4f0a-80c0-9cb5ab5977f7"
+        },
+        {
+          "name": "Copeland",
+          "id": "0797d5c7-30c7-440d-8907-54dc177f408a"
+        },
+        {
+          "name": "Holloway",
+          "id": "f675b4da-af04-440b-a723-bb4efa8e83a5"
+        },
+        {
+          "name": "Ashley",
+          "id": "754e147a-14d9-44a1-bb95-5ec39df367fc"
+        }
+      ]
+    },
+    {
+      "id": "16558611-da52-492d-a3ef-7c781fa82ac5",
+      "price": 1535,
+      "name": "Juliana",
+      "about": "Reprehenderit minim ipsum mollit labore nisi laborum magna sit aute laborum proident consequat. Eiusmod quis in tempor esse fugiat laborum incididunt est adipisicing anim magna qui cupidatat. Labore adipisicing eu magna sit tempor pariatur.",
+      "tags": [
+        "nisi",
+        "Lorem",
+        "eu",
+        "nostrud",
+        "ipsum"
+      ],
+      "relatedProduct": [
+        {
+          "name": "Claudia",
+          "id": "6667be0f-56a6-4a4d-b05c-94f373e15af3"
+        },
+        {
+          "name": "Moreno",
+          "id": "26eda5a3-bdd3-44fe-b88a-1fa44daf6368"
+        },
+        {
+          "name": "Carr",
+          "id": "99382150-c67f-4400-8da3-0721064f3edc"
+        },
+        {
+          "name": "Alston",
+          "id": "2474ce16-72a0-4a58-bbf4-5bd936134b06"
+        },
+        {
+          "name": "Mcconnell",
+          "id": "2c3b80c5-572b-4236-a09f-c72c943a898a"
+        }
+      ]
+    }
+  ]
